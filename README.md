@@ -1,1 +1,0 @@
-# osticket-helpdesk-lab
